@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@100&display=swap");
 
-@import url("components/container.css");
-@import url("components/flag.css");
-@import url("components/button.css");
-@import url("components/banner.css");
-@import url("components/card.css");
+@import url("CSS/components/container.css");
+@import url("CSS/components/flag.css");
+@import url("CSS/components/button.css");
+@import url("CSS/components/banner.css");
+@import url("CSS/components/card.css");
 
 body {
 	font-family: 'Lora', sans-serif;
